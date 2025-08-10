@@ -1,9 +1,8 @@
-const nomes = ["Marcos",
-"Marlon", 
-"Eduardo",
- "Davy", 
- "Ster"
+let nomes = [
+    "edu",
+    "Eduardo",
+    "bandeira",
+    "salustiano",
 
 ]
-
-export {nomes}
+export{nomes}
