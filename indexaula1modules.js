@@ -9,4 +9,4 @@ var dat = document.querySelector(".dat")
     dat.innerHTML=hoje
 
 
-alert("fuciona")
+
